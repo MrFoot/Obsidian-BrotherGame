@@ -11,13 +11,14 @@
             "id": "915ed5894a8ee923",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
+                "file": "间谍风云/文档管理规范.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "icon": "lucide-file",
+              "title": "文档管理规范"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.base",
+                "file": "间谍风云/文档管理规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向链接列表"
+              "title": "文档管理规范 的反向链接列表"
             }
           },
           {
@@ -195,8 +196,11 @@
   },
   "active": "915ed5894a8ee923",
   "lastOpenFiles": [
-    "README.md",
+    "未命名.md",
+    "间谍风云/文档管理规范.md",
+    "间谍风云",
     "未命名.base",
+    "README.md",
     "未命名 1.base",
     "欢迎.md",
     "Obsidian-BrotherGame/README.md",
